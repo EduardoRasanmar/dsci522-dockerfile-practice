@@ -1,0 +1,7 @@
+name: dsci522-individual_2
+channels:
+  - conda-forge
+dependencies:
+  - pandas=2.3.3
+  - altair=5.4.1
+  - python=3.11
